@@ -1,7 +1,7 @@
 # ML_notebooks
 
 CSV in ```"../data/%name%.csv"``` or seaborn
-
+For telecom dataset go to [MLcourse_ai]([url](https://github.com/Yorko/mlcourse.ai/blob/main/data/telecom_churn.csv))
 >Also more ds here https://www.kaggle.com/datasets:
 ```
 import os
