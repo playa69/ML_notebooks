@@ -12,9 +12,9 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 Python: https://www.python.org/ with enabled env variable
 
 ```
--pip install numpy
--pip install pandas
--pip install seaborn
--pip install jupyter
--jupyter-notebook
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install jupyter
+jupyter-notebook
 ```
