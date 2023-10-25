@@ -1,5 +1,5 @@
 # ML_notebooks
-Подробная информация о Notebook'ах в этоп репозитории:
+Подробная информация о Notebook'ах в этом репозитории:
 ```
 0. stable_diffusion - ноутбук с имплементацией stable_diffusion (промпт - text2image)
 1. Elbow_method, KMeans, KMeans++ - имплементация KMeans и KMeans++ (лейблы, центройды, кластеры) c критерием останова. Метод Локтя и его визуализация. Имплементация библиотеки sklearn
@@ -7,9 +7,8 @@
 3. Spotify.., telecom.. - визуализация и анализ двух датасетов с помощью Pandas, Seaborn, Matplotlib и scikit t-sne
 4.
 ```
-CSV in ```"../../data/%name%.csv"``` or seaborn, 
-for telecom dataset go to [MLcourse_ai]([url](https://github.com/Yorko/mlcourse.ai/blob/main/data/telecom_churn.csv))
->Also more ds here https://www.kaggle.com/datasets:
+CSV также тут!
+>Also more datasets here https://www.kaggle.com/datasets:
 ```
 import os
 for dirname, _, filenames in os.walk('/kaggle/input'):
