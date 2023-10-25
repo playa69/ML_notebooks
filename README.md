@@ -1,5 +1,5 @@
 # ML_notebooks
-
+Подробная информация о Notebook'ах в этоп репозитории:
 ```
 0. stable_diffusion - ноутбук с имплементацией stable_diffusion (промпт - text2image)
 1. Elbow_method, KMeans, KMeans++ - имплементация KMeans и KMeans++ (лейблы, центройды, кластеры) c критерием останова. Метод Локтя и его визуализация. Имплементация библиотеки sklearn
@@ -16,7 +16,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
     for filename in filenames:
         print(os.path.join(dirname, filename))
 ```
-Python: https://www.python.org/ with enabled env variable
+>Python: https://www.python.org/ with enabled env variable
 
 ```
 pip install numpy
