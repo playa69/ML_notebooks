@@ -14,7 +14,7 @@
 3. KMeans++_implementation - имплементация KMeans и KMeans++ (лейблы, центройды, кластеры) c критерием останова. Метод Локтя и его визуализация. Имплементация библиотеки sklearn
 4. PCA_and_clusterization_metrics - PCA (метод главных компонент) и метрики кластеризаций (affinity prop., спектральная и иерархическа) AMI, ARI, V,H и С
 ```
->3. Other
+>3. Data analysis
 ```
 1. spotify_analysis_numpy_pandas,
 2. telecom_analysis_pandas_matplotlib__t_sne - визуализация и анализ двух датасетов с помощью Pandas, Seaborn, Matplotlib и scikit t-sne отображения.
