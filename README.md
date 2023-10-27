@@ -5,7 +5,8 @@
 ```
 1. Decision_tree_classifier - имплементация дерева решений в библиотеке sklearn. Кроссвалидация и отложенная выборка из sklearn.model_selection.
 2. kNN_regression_classification,
-3. kNN_weighted - имплементация kNN из sklearn для задачи регрессии и классификации. Без/с весами, с callable-атрибутом. Метрики acuracy_score и R2 (max R2 0.993) 
+3. kNN_weighted - имплементация kNN из sklearn для задачи регрессии и классификации. Без/с весами, с callable-атрибутом. Метрики acuracy_score и R2 (max R2 0.993)
+4. Decision_Tree_Regressor_regularisation - пробую деревья с разными гиперпараметрами чтобы избежать переобучения. MSE
 ```
 >2. Unsupervised
 ```
