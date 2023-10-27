@@ -14,11 +14,12 @@
 3. KMeans++_implementation - имплементация KMeans и KMeans++ (лейблы, центройды, кластеры) c критерием останова. Метод Локтя и его визуализация. Имплементация библиотеки sklearn
 4. PCA_and_clusterization_metrics - PCA (метод главных компонент) и метрики кластеризаций (affinity prop., спектральная и иерархическа) AMI, ARI, V,H и С
 ```
->3. Data analysis
+>3. Data analysis and others
 ```
 1. spotify_analysis_numpy_pandas,
 2. telecom_analysis_pandas_matplotlib__t_sne - визуализация и анализ двух датасетов с помощью Pandas, Seaborn, Matplotlib и scikit t-sne отображения.
 3. stable_diffusion - ноутбук с имплементацией (форк) stable_diffusion (промпт - text2image)
+4. StandardScaler_MinMaxScaler - standardscaler() и minmaxscaler(), p-value and Shapiro–Wilk test from scipy
 ```
 CSV также тут!
 >Also more datasets here https://www.kaggle.com/datasets:
